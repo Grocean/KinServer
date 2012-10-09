@@ -1,0 +1,7 @@
+KinServer is written in C#, the original code is borrowed directly from Microsoft Kinect SDK Sample [KinectExplorer].   
+Features:
+    Joint positions output via OSC
+    Hand positions output via TUIO
+    Win7/Win8 native multitouch
+    Audio data output via OSC
+    Speech recognition
